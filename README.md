@@ -1,7 +1,7 @@
 # Healthcare Fraud in America: FCA Settlement Analysis
 
 **Dawn Krysa, PA-C, MSHIIM, CHDA**  
-May 2026 | Portfolio Project | [Full Interactive Report →](./FCA_Portfolio_Report.html)
+May 2026 | Portfolio Project | [Full Interactive Report →](https://darbydawn.github.io/healthcare-fraud-fca-analysis/FCA_Portfolio_Report.html)
 
 ---
 
